@@ -80,15 +80,7 @@ main {
   grid-template-rows: repeat(3, 1fr);
   gap: 15px;
 }
-.grid_item1,
-.grid_item2,
-.grid_item3,
-.grid_item4,
-.grid_item5,
-.grid_item6,
-.grid_item7,
-.grid_item8,
-.grid_item9 {
+.grid_item {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -101,31 +93,31 @@ main {
   border-radius: 5px;
   aspect-ratio: 18 / 14;
 }
-.grid_item1 {
+#grid_item1 {
   background-image: url(./assets/Angela_Davis2019.jpg);
 }
-.grid_item2 {
+#grid_item2 {
   background-image: url(./assets/Carola_Rackete.jpg);
 }
-.grid_item3 {
+#grid_item3 {
   background-image: url(./assets/Jane_Fonda.jpg);
 }
-.grid_item4 {
+#grid_item4 {
   background-image: url(./assets/Ruth_Bader_Ginsburg_2016.jpg);
 }
-.grid_item5 {
+#grid_item5 {
   background-image: url(./assets/kracher.jpg);
 }
-.grid_item6 {
+#grid_item6 {
   background-image: url(./assets/Audre_Lorde.jpeg);
 }
-.grid_item7 {
+#grid_item7 {
   background-image: url(./assets/Tarana-Burke.jpg);
 }
-.grid_item8 {
+#grid_item8 {
   background-image: url(./assets/Bell_Hooks.jpg);
 }
-.grid_item9 {
+#grid_item9 {
   background-image: url(./assets/Vanessa_Nakate.jpg);
 }
 
@@ -148,15 +140,7 @@ main div i {
     grid-template-rows: repeat(3, 1fr);
     gap: 15px;
   }
-  .grid_item1,
-  .grid_item2,
-  .grid_item3,
-  .grid_item4,
-  .grid_item5,
-  .grid_item6,
-  .grid_item7,
-  .grid_item8,
-  .grid_item9 {
+  .grid_item {
     height: auto; /* Höhe flexibel halten */
     aspect-ratio: 18 / 14; /* Seitenverhältnis beibehalten */
   }
@@ -169,15 +153,7 @@ main div i {
     grid-template-rows: repeat(5, 1fr);
     gap: 15px;
   }
-  .grid_item1,
-  .grid_item2,
-  .grid_item3,
-  .grid_item4,
-  .grid_item5,
-  .grid_item6,
-  .grid_item7,
-  .grid_item8,
-  .grid_item9 {
+  .grid_item {
     height: auto; /* Höhe flexibel halten */
     aspect-ratio: 18 / 16; /* Seitenverhältnis beibehalten */
   }
@@ -190,15 +166,7 @@ main div i {
     grid-template-rows: repeat(9, 1fr);
     gap: 15px;
   }
-  .grid_item1,
-  .grid_item2,
-  .grid_item3,
-  .grid_item4,
-  .grid_item5,
-  .grid_item6,
-  .grid_item7,
-  .grid_item8,
-  .grid_item9 {
+  .grid_item {
     height: auto; /* Höhe flexibel halten */
     aspect-ratio: 16 / 16; /* Seitenverhältnis beibehalten */
   }
