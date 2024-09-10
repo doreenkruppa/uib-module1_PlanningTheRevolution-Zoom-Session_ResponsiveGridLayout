@@ -1,6 +1,12 @@
-# Zoom Session
+# "Planning the Revolution" Zoom Session - responsive grid layout
 
-Let's practice our layout skills by creating the page shown in the reference images below -
+## Exercise Course-Module 1 - UserInterfaceBasics (UIB) - HTML/CSS
+
+Created a Zoom Session Layout with Flexbox, CSS Grid and the `position` property; icons from **Font Awesome**; top and bottom sections of the page are `fixed` in their respective locations to allow all nine image thumbnails to scroll;
+
+05.10.24;
+
+as close as possible to the mockups:
 
 #### Desktop
 
@@ -10,13 +16,22 @@ Let's practice our layout skills by creating the page shown in the reference ima
 
 ![mobile](/assets/mobile.png)
 
-##### Take a few moments to look at the live version [here](https://digitalcareerinstitute.github.io/UIB-layout-zoom-session/)
+# Image Sources
 
-### Instructions
+Angela Davis: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Angela_Davis_in_2019.jpg/375px-Angela_Davis_in_2019.jpg
 
-> - You will need to use Flexbox, CSS Grid and the `position` property
-> - The images are included in the `assets` directory
-> - The icons are from **Font Awesome**
-> - The top and bottom sections of the page should be `fixed` in their respective locations to allow all nine image thumbnails to scroll
-> - The page uses the _Gill Sans_ font
-> - As always, **pixel perfect** :)
+Audre Lorde: https://cdn-images-3.listennotes.com/podcasts/lillian-cicerchia/audre-lorde-the-erotic-as-QrbgX-TRyl1-CSPmG2oqUgE.300x300.jpg
+
+Bell Hooks: https://blackenterprise-prod.b-cdn.net/wp-content/blogs.dir/1/files/2024/03/img_868558-1920x1182.jpg
+
+Ruth Bader Ginsburg: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ruth_Bader_Ginsburg_2016_portrait.jpg/330px-Ruth_Bader_Ginsburg_2016_portrait.jpg
+
+Jane Fonda: https://awards.adamatoulon.com/images/showcase/comedie/Grace_Hanson.jpg
+
+Vanessa Nakate: https://static01.nyt.com/images/2021/11/11/multimedia/11cop26-briefing-vanessa-nakate1/11cop26-briefing-vanessa-nakate1-videoSixteenByNine3000.jpg
+
+Tarana Burke: https://www.ebony.com/wp-content/uploads/2022/11/11/Tarana-Burke.jpg
+
+Carola Rackete: https://www.fr.de/assets/images/33/238/33238458-carola-rackete-wurde-2019-als-kapitaenin-des-rettungsschiffs-sea-watch-in-italien-verhaftet-NWBG.jpg © picture alliance/dpa
+
+Veronika Kracher: https://www.ventil-verlag.de/assets/images/autor/400px/kracher.jpg
