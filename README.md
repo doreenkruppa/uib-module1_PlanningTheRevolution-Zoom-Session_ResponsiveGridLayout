@@ -2,17 +2,23 @@
 
 ## Exercise Course-Module 1 - UserInterfaceBasics (UIB) - HTML/CSS
 
-Created a Zoom Session Layout with Flexbox, CSS Grid and the `position` property; icons from **Font Awesome**; top and bottom sections of the page are `fixed` in their respective locations to allow all nine image thumbnails to scroll;
+Created a Zoom Session Layout with Flexbox, CSS Grid and the `position` property as close as possible to the mockups:; icons from **Font Awesome**; top and bottom sections of the page are `fixed` in their respective locations to allow all nine image thumbnails to scroll;
 
 05.10.24;
 
-as close as possible to the mockups:
+#### My desktop version:
 
-#### Desktop
+![desktop](/gitpush_doreenkruppa/uib-layout-zoom-session-doreenkruppa_05.10.22/assets/PlanningTheRevolution_desktop.png)
+
+#### My mobile version:
+
+![mobile](/gitpush_doreenkruppa/uib-layout-zoom-session-doreenkruppa_05.10.22/assets/PlanningTheRevolution_mobile.png)
+
+#### Desktop mockup
 
 ![desktop](/assets/desktop.png)
 
-#### Mobile
+#### Mobile mockup
 
 ![mobile](/assets/mobile.png)
 
