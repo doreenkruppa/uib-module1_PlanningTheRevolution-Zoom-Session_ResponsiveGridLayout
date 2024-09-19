@@ -8,11 +8,11 @@ Created a Zoom Session Layout with Flexbox, CSS Grid and the `position` property
 
 #### My desktop version:
 
-![desktop](/gitpush_doreenkruppa/uib-layout-zoom-session-doreenkruppa_05.10.22/assets/PlanningTheRevolution_desktop.png)
+![my_desktop](/assets/PlanningTheRevolution_desktop.png)
 
 #### My mobile version:
 
-![mobile](/gitpush_doreenkruppa/uib-layout-zoom-session-doreenkruppa_05.10.22/assets/PlanningTheRevolution_mobile.png)
+![my_mobile](/assets/PlanningTheRevolution_mobile.png)
 
 #### Desktop mockup
 
