@@ -2,7 +2,7 @@
 
 ## Exercise Course-Module 1 - UserInterfaceBasics (UIB) - HTML/CSS
 
-created at 05.10.24;
+created at 05.10.22;
 
 Created a Zoom Session Layout with Flexbox, CSS Grid and the `position` property as close as possible to the mockups:; icons from **Font Awesome**; top and bottom sections of the page are `fixed` in their respective locations to allow all nine image thumbnails to scroll;
 
