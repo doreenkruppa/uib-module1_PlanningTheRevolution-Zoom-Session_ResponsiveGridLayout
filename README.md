@@ -6,23 +6,23 @@ created at 05.10.24;
 
 Created a Zoom Session Layout with Flexbox, CSS Grid and the `position` property as close as possible to the mockups:; icons from **Font Awesome**; top and bottom sections of the page are `fixed` in their respective locations to allow all nine image thumbnails to scroll;
 
-#### My desktop version:
+### My desktop version:
 
 ![my_desktop](/assets/PlanningTheRevolution_desktop.png)
 
-#### My mobile version:
+### My mobile version:
 
 ![my_mobile](/assets/PlanningTheRevolution_mobile.png)
 
-#### Desktop mockup
+### Desktop mockup
 
 ![desktop](/assets/desktop.png)
 
-#### Mobile mockup
+### Mobile mockup
 
 ![mobile](/assets/mobile.png)
 
-# Image Sources
+#### Image Sources:
 
 Angela Davis: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Angela_Davis_in_2019.jpg/375px-Angela_Davis_in_2019.jpg
 
